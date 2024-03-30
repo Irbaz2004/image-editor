@@ -3,5 +3,5 @@ window.onload = function(){
         var loader = document.getElementById("load");
         loader.style.display = "none";
         window.location.href = 'index1.html';
-    },5000)
+    },8000)
 }
